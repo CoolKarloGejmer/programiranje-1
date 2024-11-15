@@ -137,7 +137,9 @@
     <ClCompile Include="nakvadrat.c" />
     <ClCompile Include="proizvodnjaDijamanata.c" />
     <ClCompile Include="spolizacija.c" />
+    <ClCompile Include="sportskeVijesti.c" />
     <ClCompile Include="zapetljaniZnakovi.c" />
+    <ClCompile Include="zapteljanaAna.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

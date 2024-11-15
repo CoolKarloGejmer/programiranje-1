@@ -26,7 +26,7 @@ int* decToBin16(int t, int* br) {
 	return br;
 }
 
-void main() {
+void kraljDrzislav() {
 	char znak[256];
 	int b1[16], b2[16], n;
 	int t[8];

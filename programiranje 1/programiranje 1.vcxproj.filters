@@ -48,5 +48,11 @@
     <ClCompile Include="kraljDrzislav.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="sportskeVijesti.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="zapteljanaAna.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
