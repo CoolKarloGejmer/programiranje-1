@@ -30,7 +30,7 @@ int zbrznam(int x) {
 	return zbr;
 }
 
-void main() {
+void zapetljaniMislav() {
 	int n, k, a;
 	int count = 0;
 	int sz=0,xd=0;

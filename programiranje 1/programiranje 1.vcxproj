@@ -133,6 +133,7 @@
     <ClCompile Include="kolaci.c" />
     <ClCompile Include="invert hex.c" />
     <ClCompile Include="kraljDrzislav.c" />
+    <ClCompile Include="malaAnica.c" />
     <ClCompile Include="maribor.c" />
     <ClCompile Include="nakvadrat.c" />
     <ClCompile Include="proizvodnjaDijamanata.c" />
