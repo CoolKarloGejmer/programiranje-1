@@ -138,6 +138,7 @@
     <ClCompile Include="proizvodnjaDijamanata.c" />
     <ClCompile Include="spolizacija.c" />
     <ClCompile Include="sportskeVijesti.c" />
+    <ClCompile Include="zapetljaniMislav.c" />
     <ClCompile Include="zapetljaniZnakovi.c" />
     <ClCompile Include="zapteljanaAna.c" />
   </ItemGroup>

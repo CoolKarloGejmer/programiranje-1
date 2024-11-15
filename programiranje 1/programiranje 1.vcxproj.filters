@@ -54,5 +54,8 @@
     <ClCompile Include="zapteljanaAna.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="zapetljaniMislav.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
