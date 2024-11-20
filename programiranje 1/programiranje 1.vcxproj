@@ -137,6 +137,9 @@
     <ClCompile Include="maribor.c" />
     <ClCompile Include="nakvadrat.c" />
     <ClCompile Include="proizvodnjaDijamanata.c" />
+    <ClCompile Include="randomSlova.c" />
+    <ClCompile Include="rastuciVlak.c" />
+    <ClCompile Include="sort.c" />
     <ClCompile Include="spolizacija.c" />
     <ClCompile Include="sportskeVijesti.c" />
     <ClCompile Include="zapetljaniMislav.c" />

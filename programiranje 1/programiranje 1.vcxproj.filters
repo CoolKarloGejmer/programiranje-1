@@ -60,5 +60,14 @@
     <ClCompile Include="malaAnica.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="randomSlova.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="sort.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="rastuciVlak.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
