@@ -69,5 +69,17 @@
     <ClCompile Include="rastuciVlak.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="matrice.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="lab4.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="mnozenjeMatrica.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="2Dizbori.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

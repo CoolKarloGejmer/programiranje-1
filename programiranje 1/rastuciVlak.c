@@ -15,7 +15,7 @@ void selectionSorted(int x[1000],int n) {
 	}
 }
 
-void main() {
+void rastuciVlak() {
 	int n,evili,countNaprijed=0,countNazad=0;
 	int vlak[1000];
 	int kopija[1000];

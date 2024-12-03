@@ -127,14 +127,18 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="2Dizbori.c" />
     <ClCompile Include="bazniBrojevi.c" />
     <ClCompile Include="giza.c" />
     <ClCompile Include="kalkulator.c" />
     <ClCompile Include="kolaci.c" />
     <ClCompile Include="invert hex.c" />
     <ClCompile Include="kraljDrzislav.c" />
+    <ClCompile Include="lab4.c" />
     <ClCompile Include="malaAnica.c" />
     <ClCompile Include="maribor.c" />
+    <ClCompile Include="matrice.c" />
+    <ClCompile Include="mnozenjeMatrica.c" />
     <ClCompile Include="nakvadrat.c" />
     <ClCompile Include="proizvodnjaDijamanata.c" />
     <ClCompile Include="randomSlova.c" />
