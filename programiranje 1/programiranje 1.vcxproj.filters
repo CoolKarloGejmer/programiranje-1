@@ -81,5 +81,14 @@
     <ClCompile Include="2Dizbori.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="histogramPostotaka.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="kaladont.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ribarRibe.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

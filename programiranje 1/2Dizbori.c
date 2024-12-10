@@ -38,7 +38,7 @@ int maxRedStupac(int** mat, int i,int redstupac,int m,int n) {
 	return zbr;
 }
 
-void main() {
+void izbori2D() {
 	int m, n;
 	scanf("%d %d", &m, &n);
 	int** matR = upis2DIzbori(m, n);

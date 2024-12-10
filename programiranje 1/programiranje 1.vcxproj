@@ -130,6 +130,8 @@
     <ClCompile Include="2Dizbori.c" />
     <ClCompile Include="bazniBrojevi.c" />
     <ClCompile Include="giza.c" />
+    <ClCompile Include="histogramPostotaka.c" />
+    <ClCompile Include="kaladont.c" />
     <ClCompile Include="kalkulator.c" />
     <ClCompile Include="kolaci.c" />
     <ClCompile Include="invert hex.c" />
@@ -143,6 +145,7 @@
     <ClCompile Include="proizvodnjaDijamanata.c" />
     <ClCompile Include="randomSlova.c" />
     <ClCompile Include="rastuciVlak.c" />
+    <ClCompile Include="ribarRibe.c" />
     <ClCompile Include="sort.c" />
     <ClCompile Include="spolizacija.c" />
     <ClCompile Include="sportskeVijesti.c" />
