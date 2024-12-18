@@ -90,5 +90,11 @@
     <ClCompile Include="ribarRibe.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="sahovskaPloca.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="bondSecurity.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

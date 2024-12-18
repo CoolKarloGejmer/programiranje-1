@@ -28,7 +28,7 @@ int simuliraj(char niz[], int n, int x) {
 	return zbr;
 }
 
-void main() {
+void ribarRibe() {
 	int n;
 	char niz[MAX];
 	//int opt[MAX]; //lista za analizu dok program radi
